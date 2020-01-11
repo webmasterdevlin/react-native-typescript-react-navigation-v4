@@ -11,6 +11,7 @@ Let's create a React Native app with TypeScript and React Navigation v4.0 by usi
 ```sh
 $ npm uninstall -g react-native-cli
 ```
+Open up a terminal that points to your Desktop.
 Then start creating a React Native in TypeScript project
 
 ```sh
